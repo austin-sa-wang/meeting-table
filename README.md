@@ -7,6 +7,12 @@ Original Contributor
 ------
 This was designed and developed as part of the university final year design project.
 Original Contributor include:
+Design & Develop
 
 * Austin S.A. Wang
 * Steven K.P. Niu
+
+Background research & review
+
+* Daniel D.J. Lee
+* Jim C. Chang
