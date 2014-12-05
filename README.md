@@ -5,7 +5,7 @@ It is designed to be run on large screen (television-sized) touch screen.
 
 Original Contributor
 ------
-This was designed and developed for Final Year Design Project.
+This was designed and developed as part of the university final year design project.
 Original Contributor include:
 *. Austin S.A. Wang
 *. Steven K.P. Niu
